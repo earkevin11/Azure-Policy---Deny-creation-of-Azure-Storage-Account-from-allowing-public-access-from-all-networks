@@ -11,7 +11,7 @@
 2. Built in Policy 2: Azure Key Vault should have firewall enabled or public network access disabled
 - I duplicated both and modified default to "Deny" and tested thoroughly
 
-- <img width="1863" height="724" alt="image" src="https://github.com/user-attachments/assets/ac17d832-3fc2-4773-a92c-40f1d963752e" />
+- <img width="1863" height="1324" alt="image" src="https://github.com/user-attachments/assets/ac17d832-3fc2-4773-a92c-40f1d963752e" />
 
 =======================================================================================
 
