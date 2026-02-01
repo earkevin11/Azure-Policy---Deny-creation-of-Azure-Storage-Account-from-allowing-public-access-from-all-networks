@@ -1,6 +1,8 @@
 # Azure-Policy---Deny-creation-of-Azure-resources-from-allowing-public-access-from-all-networks
 
-Goal: Establish security baselines for the resources and policies I enforce against the management group.
+# Goal: Establish security baselines for the resources and policies I enforce against the management group.
+
+# Job: Own creating/managing baseline documents related to the policies I am enforcing
 
 
 <img width="1863" height="724" alt="image" src="https://github.com/user-attachments/assets/ac17d832-3fc2-4773-a92c-40f1d963752e" />
