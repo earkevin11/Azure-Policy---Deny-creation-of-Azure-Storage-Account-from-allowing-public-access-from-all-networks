@@ -1,6 +1,6 @@
 # Azure-Policy---Deny-creation-of-Azure-resources-from-allowing-public-access-from-all-networks
 
-
+Goal: Establish security baselines for the resources and policies I enforce against the management group.
 
 
 <img width="1863" height="724" alt="image" src="https://github.com/user-attachments/assets/ac17d832-3fc2-4773-a92c-40f1d963752e" />
@@ -14,8 +14,8 @@
 # Azure Storage Account
 
 The custom policy will only allow users to create a new Storage Account that is in compliance with our security standards.
-Option #1. Enable public access from selected virtual networks and IP addresses
-Option #2 Disable public access and use private access
+1. Option #1. Enable public access from selected virtual networks and IP addresses
+2. Option #2 Disable public access and use private access
 
 <img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/5fe3abe1-9a06-4036-afae-0c57df6642f1" />
 
