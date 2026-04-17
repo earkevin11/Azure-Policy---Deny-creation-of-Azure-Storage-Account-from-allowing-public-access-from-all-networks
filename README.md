@@ -7,9 +7,8 @@
 
 
 # The Azure Initiative contains 2 policies:
-1. Built in Policy 1: Storage accounts should restrict network access
-2. Built in Policy 2: Azure Key Vault should have firewall enabled or public network access disabled
-3. - (https://github.com/earkevin11/Deny-creation-of-Azure-Key-Vault-from-allowing-public-access-to-all-networks/blob/main/README.md)
+1. Policy 1: Storage accounts should restrict network access
+2. Policy 2: [Azure Key Vault should have firewall enabled or public network access disabled](https://github.com/earkevin11/Deny-creation-of-Azure-Key-Vault-from-allowing-public-access-to-all-networks/blob/main/README.md)
 - I duplicated both and modified default to "Deny" and tested thoroughly
 
 - <img width="1863" height="1324" alt="image" src="https://github.com/user-attachments/assets/ac17d832-3fc2-4773-a92c-40f1d963752e" />
